@@ -10,4 +10,6 @@ comment4.params=
 comment4.target=void\ outside()
 comment5.params=
 comment5.target=void\ controlRoom()
-numComments=6
+comment6.params=
+comment6.target=void\ outside2()
+numComments=7
