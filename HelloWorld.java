@@ -71,11 +71,9 @@ class HelloWorld
                 bigSpaceShip();
                     
             }
-        }
             
-            
-       else if(ans == 2)
-       {
+            else if(ans == 2)
+            {
             System.out.println("You told him you won't fight him and you turned your back on him");
             System.out.println("Garfield: I'm getting bored");
             System.out.println("He then decided to kill you");
@@ -87,10 +85,13 @@ class HelloWorld
             if(ans == 1)
             {
                 bigSpaceShip();
-            }
-       }
             
+            }
+        
+           }
     }
+            
+  }
     
                   
     public static void outside()
@@ -112,7 +113,7 @@ class HelloWorld
     {
         System.out.println("You're  in the control room");
         System.out.println("You see DarthPig...it's basically DarthVader but with a pig head...");
-        System.out.println("Who's there?");
+        System.out.println("DarthVader: Who's there?");
         System.out.println("Oh no! He spotted you! He took out his lightsaber");
         System.out.println("Do you have your own lightsaber?");
         System.out.println("1 for yes");
@@ -267,7 +268,7 @@ class HelloWorld
     
 }
 
-        
+       
         
         
         
